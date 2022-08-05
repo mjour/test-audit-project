@@ -58,7 +58,7 @@ Any new state variables that are added may not use AppStorage or be added to the
 
 ## When Done
 
-When done let Nick Mudge know so that he can review your work. You can create an issue that mentions Nick or send him a message on discord: mudgen#7418
+When done let Mark James know so that he can review your work. You can create an issue that mentions Nick or send him a message on discord: markjames_1221#1546
 
  
 
